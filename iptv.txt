@@ -1,0 +1,2 @@
+日本新闻24,http://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+日本中文,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
