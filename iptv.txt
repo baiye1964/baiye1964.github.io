@@ -1,4 +1,4 @@
-start香港
+$c_start香港$c
 有线新闻台,http://prdsecurelive.ainemo.com/live/2020sanwu.flv
 有线电影台,http://prdsecurelive.ainemo.com/live/yx09hitv.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
