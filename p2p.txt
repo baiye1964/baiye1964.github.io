@@ -1,0 +1,33 @@
+$c_startNEWS$c_end
+靖天映畫,p2p://fccsovh.pvbox.live:18912/5b14093f0002d1c24f5c5a4650a367a9.ts
+壹電視新聞,p2p://fccsovh.pvbox.live:18912/5b14094000088a468e9f73a90c8a9a1b.ts
+年代新聞,p2p://fccsovh.pvbox.live:18912/5c2dd760000328564e395cadf94ed6fd.ts
+東森新聞,p2p://fccsovh.pvbox.live:18912/5c2dd7310008b319b5d18fcb51367464.ts
+中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8af7a528efc80dec.ts
+民視新聞,p2p://fccsovh.pvbox.live:18912/5b1409690004f7336bf154d0f6f43366.ts
+三立新聞,p2p://fccsovh.pvbox.live:18912/5b14090b000e80305b8d32e224e181e9.ts
+非凡新聞,p2p://fccsovh.pvbox.live:18912/5c2dd766000ecf4a460f432edc3d6349.ts
+中天新聞,p2p://fccsovh.pvbox.live:18912/5c2dd72e0002527b8af7a528efc80dec.ts
+TVBS新聞,p2p://fccsovh.pvbox.live:18912/5c2dd76300095ef4c4a636970264bef7.ts
+TVBS綜合,p2p://fccsovh.pvbox.live:18912/5b140960000c982bc8f85533fae5c65d.ts
+CNN HD,P2p://sdgdklwos.finetv.tv:9906/59fd16db000b5f05026dc5a57b516fdb
+CNN,p2p://147.135.39.171:9906/5d9a3074000760469cc889bc0bf01660.ts
+BBC HD,P2p://sdgdklwos.finetv.tv:9906/59fd16bc000f2550026d4d870b85516d
+CNBC,p2p://147.135.39.171:9906/5dbb6a49000ca6ad1ed7730c5d4e7cbd.ts
+skynews,p2p://147.135.39.171:9906/5defe151000d3fe06eba8aa94fe32f70.ts
+$c_start娱乐$c_end
+HAPPY幸福,mitv://51.79.41.138:18912/5c18f8fe000ca53ec074293d6d01287b.ts.ts
+HOT星颖,p2p://51.79.41.136:18912/5c18f8e80001d046c073d07f7ee742c9.ts.ts
+香蕉台,p2p://51.79.41.136:18912/5c18f9090004f8a0c07452412e4e369f.ts.ts
+潘多拉粉红,p2p://51.79.41.136:18912/5c18f90c000e8229c074606a15084f35.ts.ts
+潘多拉完美,p2p://51.79.41.136:18912/5c18f905000c08fbc07444661e2e685e.ts.ts
+松视1台,p2p://51.79.41.136:18912/5c18f8fb00064883c0741bdf109f114a.ts.ts
+松视2台,p2p://51.79.41.136:18912/5c18f8f7000d865dc0740e1426765941.ts.ts
+松视3台,p2p://51.79.41.136:18912/5c18f9020004cea3c07436da29307240.ts.ts
+惊艳台,p2p://51.79.41.136:18912/5c18f9100006a3e2c0746e0708a009f7.ts.ts
+彩虹电影,p2p://51.79.41.136:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+彩虹E台,p2p://51.79.41.136:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+彩虹k台,p2p://51.79.41.136:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
+彩虹電影,p2p://fccsovh.pvbox.live:18912/5c18f8eb000ca180c073df055bc26b76.ts.ts
+彩虹e台,p2p://fccsovh.pvbox.live:18912/5c18f8ef000d41c9c073eec574332890.ts.ts
+彩虹k台,p2p://fccsovh.pvbox.live:18912/5c18f8f300074bdfc073fcde6e553705.ts.ts
